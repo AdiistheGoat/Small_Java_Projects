@@ -77,13 +77,6 @@ Overall score: 93.180
 
 ---
 
-## Author
-
-- **Aditya Goyal** (instructor: Jim Williams)  
-- Developed as part of a first-semester Java programming project
-
----
-
 ## Notes
 
 - CLI-based, no GUI yet  
