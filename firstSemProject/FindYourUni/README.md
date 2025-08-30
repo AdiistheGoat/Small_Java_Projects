@@ -57,14 +57,14 @@
 Here are the top 30 universities for Computer Science ranked according to your criteria
 
 Rank 1-:
-Name: Massachusetts Institute of Technology (MIT)
-Country: United States
-Overall score: 95.320
+- Name: Massachusetts Institute of Technology (MIT)
+- Country: United States
+- Overall score: 95.320
 
 Rank 2-:
-Name: Stanford University
-Country: United States
-Overall score: 93.180
+- Name: Stanford University
+- Country: United States
+- Overall score: 93.180
 ---
 
 ## Error Handling & Validation
